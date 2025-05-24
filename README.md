@@ -1,6 +1,6 @@
 # Pre LLM Couse
 
-[Fast AI Deep leaning course]](https://course.fast.ai/)
+[Fast AI Deep leaning course](https://course.fast.ai/)
 
 
 # LLM Course
