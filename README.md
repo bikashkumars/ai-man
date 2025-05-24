@@ -7,6 +7,8 @@
 
 [Hugging Face course](https://huggingface.co/learn/llm-course/chapter1/1)
 
+[Deep learning.ai LLM Course](https://www.coursera.org/learn/generative-ai-with-llms/)
+
 [microsoft courses](https://microsoft.github.io/AI-For-Beginners/)
 
 [openAi prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
