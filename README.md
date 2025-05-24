@@ -1,4 +1,11 @@
-# ai-man
+# Pre LLM Couse
+
+[Fast AI Deep leaning course] (https://course.fast.ai/)
+
+
+# LLM Course
+
+[Hugging Face course](https://huggingface.co/learn/llm-course/chapter1/1)
 
 [microsoft courses](https://microsoft.github.io/AI-For-Beginners/)
 
